@@ -3,4 +3,4 @@ Technology Used :
 - Tailwindcss
 - API
 
-  Live Application : https://onlinestorenew.vercel.app/
+Live Application : https://onlinestorenew.vercel.app/
