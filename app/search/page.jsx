@@ -48,7 +48,7 @@ const SearchItem = () => {
                 {product.title.toLowerCase().includes(search.toLowerCase()) ? (
                   <ProductCard key={product.id} product={product} />
                 ) : (
-                  "Product Not Found"
+                  ""
                 )}
               </div>
               //   <ProductCard key={product.id} product={product} />
